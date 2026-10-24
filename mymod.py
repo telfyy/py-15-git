@@ -23,10 +23,12 @@
 # ------------------------------------------------
 
 def count_lines(lines):
+    """Рахує кількість рядків"""
     return len(lines)
 
 
 def count_chars(lines):
+    """Рахує загальну кількість символів"""
 
     count = 0
 
@@ -37,7 +39,6 @@ def count_chars(lines):
 
 
 def test(lines):
-
     count = count_lines(lines)
     print(f"Кількість рядків: {count}")
 
