@@ -13,3 +13,6 @@ mymod.test(["hello Ukraine", "city: Lvyiv", "'car brand: Skoda", "USA, Florida"]
 ```
 
 > git status не показав pycache - тому що ми додали цю папку в gitignore, тому Git її ігнорує
+
+**AI log:** Обговорив з ментором призначення **_gitignore_**, розібрав причину відсутності **_pycache_** у відстеженні
+та закріпив послідовність команд для фіксації змін у репозиторії.
