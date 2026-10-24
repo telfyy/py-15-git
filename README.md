@@ -83,4 +83,4 @@ fatal: not a git repository (or any of the parent directories): .git
 
 ## Pull request
 
-[https://github.com/telfyy/py-15-git/pull/1](https://github.com/telfyy/py-15-git/pull/1)
+[Посилання на Pull Request](https://github.com/telfyy/py-15-git/pull/1)
