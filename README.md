@@ -47,13 +47,16 @@ mymod.test(["hello Ukraine", "city: Lvyiv", "'car brand: Skoda", "USA, Florida"]
 ## My history
 
 ```Branch
-cb80777 (HEAD -> main, origin/main, origin/HEAD) Merge pull request #1 from telfyy/improve-readme
+2bd41de (HEAD -> main, origin/main, origin/HEAD) update README                                                                                                     
+58ee06c update README
+ededc48 update README (add link to Pull request)
+3b71988 update README (add errors)
+3d50516 update my history log in README
+cb80777 Merge pull request #1 from telfyy/improve-readme
 13f4d64 (origin/improve-readme, improve-readme) Update README and add doc for functions in mymod
 80b7a70 Update README
 59912e7 Add AI log
 be774f3 Add my README with info about project
-7aeb209 Add my module and the script that uses it
-b96286f Add .gitignore
 ```
 
 ## Errors
